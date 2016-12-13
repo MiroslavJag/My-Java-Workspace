@@ -16,7 +16,7 @@ public class App {
 		System.out.println("Unesite vasu godinu rodjenja: ");
 		String god= input.nextLine();
 		
-		System.out.println("Vase ime je: " +ime+ "\n" + "Vase prezime je: " +prezime + "\n" + "Rodjeni ste: " +god + ".god");
+		System.out.println("Vase ime je: " +ime+ "\n" + "Vase prezime je: " +prezime + "\n" + "Rodjeni ste: " +god + ".god.");
 			
 
 	}
