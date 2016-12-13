@@ -1,0 +1,15 @@
+
+public class App {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		
+		String[] imenaPrezimena = {"MiroslavJag", "sanjakgPURS", "gajgele","radoslavlatincic","SRKI972","blankapreradovic", "mladentosic", "Mercury2001", "DraganaPupac", "lupiga", "TanjaStankovic"};
+		
+		for (String impr : imenaPrezimena){
+			System.out.println(impr);
+		}
+	}
+
+}
